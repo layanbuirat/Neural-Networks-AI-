@@ -1170,17 +1170,6 @@ Areas for improvement:
 - Add regularization (L1/L2)
 - Add momentum optimization
 - Create visualization of decision boundaries
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- UCLA for the admissions dataset
-- Udacity Deep Learning Nanodegree for educational framework
-- Luis Serrano for foundational explanations of gradient descent
-
 ---
 
 ## ⚡ Quick Reference
